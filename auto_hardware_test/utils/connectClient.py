@@ -134,7 +134,7 @@ if __name__ == '__main__':
     remote_ip = '172.17.7.41'
     remote_port = 22
     ssh_username = 'root'
-    ssh_password = 'abc#123'
+    ssh_password = 'CHANGE_ME'
     conn = SSHConnection(remote_ip=remote_ip, remote_port=remote_port, ssh_username=ssh_username, ssh_password=ssh_password)
 
     # 批量上传文件

@@ -150,10 +150,10 @@ test_datadisk_size=57.3
 [ssh1]
 bar_num=0
 hostname=server45
-host=172.17.7.45
+host=127.0.0.1
 port=22
 username=root
-password=abc#123
+password=CHANGE_ME
 timeout=1.0
 ```
 

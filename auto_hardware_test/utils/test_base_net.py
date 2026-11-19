@@ -51,7 +51,7 @@ if __name__ == '__main__':
     # remote_ip = '172.17.7.41'
     # remote_port = 22
     # ssh_username = 'root'
-    # ssh_password = 'abc#123'
+    # ssh_password = 'CHANGE_ME'
 
     # conn = connectClient.SSHConnection(remote_ip=remote_ip, remote_port=remote_port, ssh_username=ssh_username,
     #                      ssh_password=ssh_password)
@@ -68,7 +68,7 @@ if __name__ == '__main__':
     # ip = "172.17.7.40"
     # port = 22
     # username = "root"
-    # password = "abc#123"
+    # password = "CHANGE_ME"
     #
     # cmd_s = "iperf -s"
     # cmd_c = "iperf -c " + ip + " -i 1 -t 1000 -P 12 > /home/" + ip + "_iperf.log"

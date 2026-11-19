@@ -1,0 +1,37 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated output
+*.log
+log/
+log1/
+log2/
+logs/
+chroma_db/
+allure-results/
+allure-report/
+reports/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Browser state
+storage-state.json
+auth-state.json
+.playwright/
