@@ -1,0 +1,4 @@
+interface:
+  display_name: "测试知识库协作"
+  short_description: "统一整理项目资料，复用测试用例，支持新人上手与知识库持续精简维护"
+  default_prompt: "使用 $qa-knowledge-base 协助建立或维护团队测试知识库，依托现有资料复用用例并支持新人上手。"

@@ -10,6 +10,7 @@ AI 测试与工程实验室：整理大模型评测、RAG 示例和自动化测�
 | RAG 示例 | 文档检索、向量存储与问答示例，包含命令行和 Web 入口 | [rag_example](rag_example/README.md) |
 | 硬件测试脚本 | SSH 调度、FIO／iperf、日志收集与报告生成 | [auto_hardware_test](auto_hardware_test/README.md) |
 | 学习资料 | Agent 测试与 JMeter 相关笔记和配置 | [文档](文档/) |
+| 测试知识库 Skill | 资料建库、用例复用、新人上手与已确认知识的持续维护 | [安装与使用](skills/README.md) |
 
 这是多个历史实验模块的集合，各模块单独配置和运行。
 
